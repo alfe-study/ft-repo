@@ -1,3 +1,3 @@
 # ft-repo
 
-# end of readmy
+# end of readme
