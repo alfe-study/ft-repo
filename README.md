@@ -1,4 +1,4 @@
 # ft-repo
 
-This file was modified locally
+This line was modified manually during conflicts resolution
 # end of readme
